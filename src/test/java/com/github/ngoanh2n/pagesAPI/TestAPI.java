@@ -37,7 +37,7 @@ public class TestAPI{
 //            }
 
         }catch (JSONException err){
-            System.out.println("ERoare pulii");
+            System.out.println("ERoare");
         }
 
 
